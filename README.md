@@ -6,6 +6,7 @@ We were told to build a Healthcare app . In which we decided to include Appointm
 
 We have first made Login page and then sign in page then Card views of the appointments , calenders , Medicines DElivery , order details etc . then after the appointments page is further connected to the Top deails of the doctors in their specializations .
 
+This app is made with the viewpoint of both rich and poor people sop they can get best of the facilities.
 
 
 
